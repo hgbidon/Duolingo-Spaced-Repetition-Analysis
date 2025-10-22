@@ -1,8 +1,7 @@
 # 🦉 Duolingo Spaced Repetition Analysis (Databricks)
 
 ## 📘 Overview
-Explored Duolingo’s 13M+ spaced repetition dataset to uncover retention patterns, recall decay, and memory survival.  
-Executed fully in **Databricks** using **Pandas workflows** and **KaggleHub** for dataset integration.
+Explored Duolingo’s 13M+ spaced repetition dataset to uncover retention patterns, recall decay, and memory survival. Executed fully in **Databricks** using **Pandas workflows** and **KaggleHub** for dataset integration.
 
 ---
 
